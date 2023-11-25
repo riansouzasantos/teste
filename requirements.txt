@@ -23,6 +23,5 @@ SQLAlchemy
 tk
 typing_extensions
 urllib3
-vboxapi
 Werkzeug
 WTForm
