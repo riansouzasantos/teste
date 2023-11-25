@@ -13,7 +13,6 @@ idna
 itsdangerous
 Jinja2
 MarkupSafe
-mysql-connector-python
 packaging
 Pillow
 protobuf
