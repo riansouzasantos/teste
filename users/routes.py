@@ -5,8 +5,8 @@ from flask import Flask, render_template
 @app.route('/')
 def user():
     with app.app_context():
-        usuario = Usuario.query.all()
-    return render_template('User.html', usuario=usuario)
+      usuario = Usuario.query.all()
+    return render_template('user.html', usuario=usuario)
 
 
 
